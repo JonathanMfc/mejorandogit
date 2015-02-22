@@ -1,0 +1,35 @@
+commit 7f654935ba1d0d5a4c8f2cc6525291e564659c51
+Author: Jonathan Castillo <jonathan.mfc46@gmail.com>
+Date:   Fri Feb 20 23:56:51 2015 -0500
+
+    aguegue web portafolio
+
+commit fb908bd854c9e5f72fb110eb1e3a02c2010ae922
+Author: Jonathan Castillo <jonathan.mfc46@gmail.com>
+Date:   Fri Feb 20 23:54:04 2015 -0500
+
+    agregue descripcion
+
+commit 09dc36b63b655794506dcb6b61ec74b80bbdc299
+Author: Jonathan Castillo <jonathan.mfc46@gmail.com>
+Date:   Fri Feb 20 23:50:06 2015 -0500
+
+    Redes Sociales
+
+commit dde4e16859f0cf3fdaf66d177055dd840c91f3f7
+Author: Jonathan Castillo <jonathan.mfc46@gmail.com>
+Date:   Fri Feb 20 23:44:02 2015 -0500
+
+    Perfil Web escritorio
+
+commit aeba57a7b2b0c494eae97909bc29b1eb1091955a
+Author: Jonathan Castillo <jonathan.mfc46@gmail.com>
+Date:   Fri Feb 20 23:41:43 2015 -0500
+
+    subi foto de perfil y mi nombre
+
+commit 564c1fbf26291da4de2bea31d70bd25781a179ca
+Author: Jonathan Castillo <jonathan.mfc46@gmail.com>
+Date:   Fri Feb 20 23:35:54 2015 -0500
+
+    Estos son los archivos base de mi portafolio
